@@ -1,3 +1,5 @@
+[Home](index.md) |[About](about.md) | [People](people.md) | [Policies](policies.md) | [Submissions](submissions.md) 
+
 # Volume1, Issue1
 
 ## EDITORIAL
