@@ -1,3 +1,5 @@
+[Home](index.md) |[About](about.md) | [People](people.md) | [Policies](policies.md) | [Submissions](submissions.md) 
+
 # Policies
 ## FOCUS AND SCOPE
 JPS is a peer-review journal for BSc, MSc and PhD Physics students. Journal aims to train students for peer-review publication processes. Due to its nature, publication procedures of the journal are not very restrictive. For example, a PhD student with a related publication can be a reviewer for a manuscript. This not means JPS publish unscientific articles. This means originality of a manuscript can be lower than other journals. On the contrary, JPS uses blind peer-review and double-blind peer-review processes to ensure the quality of publications. With this structure, JPS will be a best choice for publishing unpublished posters, BSc projects with interesting results, experiments with standart results or publications that need quick and open access. JPS also has a secrecy policy for quick publications that ensures the Reviewers will have access to the submission file only after agreeing to review it.
