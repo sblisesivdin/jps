@@ -2,9 +2,9 @@
 
 ## EDITORIAL
 
-Page 1: PDF: Editorial
+Page 1: [PDF](pdfs/1-1-editorial.pdf): **Editorial**
 
-Sefer Bora Lisesivdin     
+*Sefer Bora Lisesivdin*   
 
 ## ARTICLES
 
