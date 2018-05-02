@@ -1,3 +1,5 @@
+[Home](index.md) |[About](about.md) | [People](people.md) | [Policies](policies.md) | [Submissions](submissions.md) 
+
 # Submissions
 ## ONLINE SUBMISSIONS
 Journal of Physics Students will no more accept new submissions. Thanks for your interest. Please do not send submissions with email. Thanks.
